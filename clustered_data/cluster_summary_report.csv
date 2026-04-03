@@ -1,0 +1,5 @@
+Cluster_ID,Segment_Name,Segment_Label,Number_of_Users,Percentage_of_Total,Avg_Engagement_Score,Avg_Churn_Risk,Avg_Sessions_Per_Week,Avg_Session_Duration_Min
+0,High Engagement Users,HIGH,22530,45.1%,64.93,0.50,8.00,12.94
+1,Moderate Engagement Users,MODERATE,12468,24.9%,65.10,0.50,7.98,12.80
+2,Low Engagement / At-Risk Users,AT_RISK,7539,15.1%,64.82,0.50,8.01,12.95
+3,Occasional Users,OCCASIONAL,7463,14.9%,64.92,0.50,7.97,13.06
